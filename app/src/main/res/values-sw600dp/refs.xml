@@ -1,0 +1,4 @@
+<resources>
+    <item type="layout" name="fragment_mov_list">@layout/fragment_mov_list_wide</item>
+    <item type="layout" name="fragment_favorite_list">@layout/fragment_favorite_list_wide</item>
+</resources>

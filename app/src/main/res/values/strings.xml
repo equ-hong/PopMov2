@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Equ</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_favorite" translatable="false">Favorite</string>
+
+    <string name="title_activity_mov_list">PopMov List</string>
+    <string name="title_activity_mov_detail">PopMov Detail</string>
+    <string name="title_activity_favorite_list">Favorite List</string>
+    <string name="title_activity_favorite_detail">Favorite Detail</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Label for the location preference [CHAR LIMIT=30] -->
+    <string name="pref_sort_label">Sort Order</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_key" translatable="false">sort</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_default" translatable="false">popular</string>
+
+    <string name="pref_sort_label_now_playing">now playing</string>
+    <string name="pref_sort_label_popular">popular</string>
+    <string name="pref_sort_label_top_rated">top rated</string>
+    <string name="pref_sort_label_upcoming">upcoming</string>
+
+    <string name="pref_sort_now_playing">now_playing</string>
+    <string name="pref_sort_popular">popular</string>
+    <string name="pref_sort_top_rated">top_rated</string>
+    <string name="pref_sort_upcoming">upcoming</string>
+
+    <string name="mark_as_preference">Mark as\nFavorite</string>
+    <string name="delete_from_preference">Delete from\nFavorite</string>
+
+    <string name="sync_account_type">mov.example.com</string>
+    <string name="content_authority">com.example.android.equ.app.equ</string>
+
+    <string name="pref_last_notification">last_notification</string>
+
+    <string name="pref_enable_notifications_key" translatable="false">enable_notifications</string>
+    <string name="pref_enable_notifications_label">Mov Notifications</string>
+
+    <string name="pref_enable_notifications_true">Enabled</string>
+    <string name="pref_enable_notifications_false">Not Enabled</string>
+    <string name="pref_enable_notifications_default" translatable="false">true</string>
+
+    <string name="action_share">Share</string>
+
+</resources>
