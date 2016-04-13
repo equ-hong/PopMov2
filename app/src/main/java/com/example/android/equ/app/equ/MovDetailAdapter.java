@@ -224,9 +224,8 @@ public class MovDetailAdapter extends RecyclerView.Adapter<MovDetailAdapter.Main
                      if (response.isSuccessful()) {
                          Trailer trailer = response.body();
                          mTrailerResults = trailer.getResults();
-
                          if (trailerSeq == 0) {
-                             for (final TrailerResult result : trailer.getResults()) {
+                             for (final TrailerResult result : mTrailerResults) {
                                  trailerSeq = trailerSeq + 1;
 
                                  Button button = new Button(mContext);
@@ -242,7 +241,9 @@ public class MovDetailAdapter extends RecyclerView.Adapter<MovDetailAdapter.Main
                                  });
                              }
                          }
-                         mMovDetailFragment.updateShareAction("http://www.youtube.com/watch?v=" + mTrailerResults.get(0).getKey());
+                         if(mTrailerResults.size() > 0) {
+                             mMovDetailFragment.updateShareAction("http://www.youtube.com/watch?v=" + mTrailerResults.get(0).getKey());
+                         }
                      }
                  }
 

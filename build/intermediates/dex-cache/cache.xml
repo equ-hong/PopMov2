@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-90aa71a4a100c9456ff770d485bdb01bf5390555.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-169efb2483a5b838ebb2e258d960d4e40e881972.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0\bf61256d9868ea053e24d77669c55c80db375c15\adapter-rxjava-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-9ea8808c69ce4475c9402d87c3f701d66bbcfe24.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\classes-917363ffac464322deb12aba872758b146333d83.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\okio-1.6.0-810654055ba5a98ee5132759e4881af22f6a2b69.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\classes-8f25211e527d5371a6fc09adbb3a33d0ee75f36c.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2d1432d0e8094fc3127a45a217b2f050080cc0dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-aa44ab624602eaf209ea78a658f27a4c6a582501.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\classes-2efaadf7cc0f4aa625c1c3bd33f23abf3c6b0cce.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-4918a1e17a66a5919c8d35d377db7ebcfcec4af9.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\gson-2.6.1-5f1f4c11d5c436c37a77f4365804893699996963.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\classes-b2cca23ca213066fd2b25b21ba2f4f6134400407.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.1\b494968f6050d494de55dc3ce005e59c7eb40012\rxjava-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\rxjava-1.1.1-6706c67295550d8e18fb21d9437cfdb36c317c8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-f3f0dd01521b653af5f7a9bc2511624a3efa93d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\i\AndroidStudioProjects\PopMov2\app\build\intermediates\pre-dexed\debug\classes-b3b0d12f02007be7913225eec3bc82ca7d8bfc00.jar" />
+    </item>
+
+</items>
